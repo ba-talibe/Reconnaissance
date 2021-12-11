@@ -1,32 +1,32 @@
 # Reconnaissance Facial
 
-**Ce projet regroupe un ensemble de modules pour creer un train set de visage
+**Ce projet regroupe un ensemble de modules pour creer un train set de visage**
 
-et entrainer le modele de reconnaissance facial integrer par Opencv a le 
+**et entrainer le modele de reconnaissance facial integrer par Opencv a le **
 
-reconnaitre**
+**reconnaitre**
 
 
 ## create_trainset.py
 
-possede un fonction ```create``` qui capture un nombre fini d'image depuis 
+**possede un fonction ```create``` qui capture un nombre fini d'image depuis **
 
-la webcam puis les met dans le dossier ```train``` un dossier portant le nom saisie
+**la webcam puis les met dans le dossier ```train``` un dossier portant le nom saisie**
 
 ## recorder.py
 
-est le programme qui effectue la destection des visage en temps rescaleFrame
+**est le programme qui effectue la destection des visage en temps rescaleFrame**
 
 ## setup.bat
 
-le ficher d'installation des dependances pour windows
+**le ficher d'installation des dependances pour windows**
 
 ## setup.bat
 
-le ficher d'installation des dependances pour Linux
+**le ficher d'installation des dependances pour Linux**
 
 ## trainer.py
 
-effectue l'apprentisage depuis un dossier specifier
+**effectue l'apprentisage depuis un dossier specifier**
 
-dans notre cas c'est le dossier ```tarin```
+**dans notre cas c'est le dossier ```tarin```**
