@@ -21,7 +21,7 @@
 
 **le ficher d'installation des dependances pour windows**
 
-## setup.bat
+## setup.sh
 
 **le ficher d'installation des dependances pour Linux**
 
