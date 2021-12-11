@@ -29,4 +29,4 @@
 
 **effectue l'apprentisage depuis un dossier specifier**
 
-**dans notre cas c'est le dossier ```tarin```**
+**dans notre cas c'est le dossier ```train```**
