@@ -1,12 +1,11 @@
-
 import cv2 as cv
+import create_trainset as cd
 import trainer
 from tool_img import rescaleFrame, haar_face
 
-
+cd.create()
 trainDataFile = "entrainement.yml"
 peopleSet = trainer.train("train", trainDataFile)
-
 
 faceRecognizer = cv.face.LBPHFaceRecognizer_create()
 faceRecognizer.read(trainDataFile)
