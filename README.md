@@ -2,14 +2,14 @@
 
 **Ce projet regroupe un ensemble de modules pour creer un train set de visage**
 
-**et entrainer le modele de reconnaissance facial integrer par Opencv a le **
+**et entrainer le modele de reconnaissance facial integrer par Opencv a le**
 
 **reconnaitre**
 
 
 ## create_trainset.py
 
-**possede un fonction ```create``` qui capture un nombre fini d'image depuis **
+**possede un fonction ```create``` qui capture un nombre fini d'image depuis**
 
 **la webcam puis les met dans le dossier ```train``` un dossier portant le nom saisie**
 
