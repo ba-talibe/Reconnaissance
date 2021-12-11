@@ -16,6 +16,8 @@ def train(train_path, outputfile):
         pdict.update({i:persons[i]})
     
     with open("persons.json", "a+") as file:
+        file.seek(0)
+        file.truncate()
         json.dump(pdict, file)
     
     for person in persons:
